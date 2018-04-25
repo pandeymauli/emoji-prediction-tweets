@@ -1,0 +1,1 @@
+{"FScore_Regression_Spanish": 0.4106343959285572, "FScore_NaiveBayes_English_alpha_1": 0.23508916818578432, "FScore_Baseline_Spanish": 0.04916113928989466, "FScore_NaiveBayes_Spanish_alpha_1": 0.29968712774480344, "FScore_Regression_English": 0.2726156730413603, "FScore_Baseline_English": 0.05015013843934017}
